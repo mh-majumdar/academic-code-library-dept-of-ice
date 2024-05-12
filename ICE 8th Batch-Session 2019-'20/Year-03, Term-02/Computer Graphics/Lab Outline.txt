@@ -1,0 +1,84 @@
+Computer Graphics Lab Outline:
+
+1. Write a program to draw simple line drawing without built-in function.
+
+2. Write a program to draw the pixel (x,y) and display the color in which pixel(x,y) is illuminated on the screen.
+
+3. Write a program to implement DDA line drawing algorithm.
+
+4. Write a program to implement Bresenham's Line drawing algorithm.
+
+5. Write a program to implement Bresenham's Circle drawing algorithm.
+
+6. Write a program to implement Bresenham's Ellips drawing algorithm.
+
+7. Write a program to implement Boundary Fill algorithm.
+
+8) Write a program to implement Flood Fill algorithm.
+
+9. Write a program to Draw Rectangle from (100,200) pixel to (400,500) pixel.
+
+10. Write a program to draw a Circle with center (150,150) pixel and radius 25.
+
+11. Write a program to draw a Hexagon on the screen.
+
+12. Write a program to implement Composite Transformations.
+
+13. Write a program to implement Basic Transformations (translation rotation, and scaling on a rectangle, share, Reflection).
+
+14. Write a program to implement Cohen Sutherland algorithm.
+
+15) Write a program to implement Bezier Curve.
+
+16) Write a program to implement B-Spline Curve.
+
+17) Write a program to implement animation using C function.
+
+18) Write a program to implement a cartoon using C function.
+
+19)Write a program to draw a chain of circles.
+
+20) Write a program to draw concentric circles.
+
+21)Write a program to fill an ellipse by reducing the size of an ellipse.
+
+22) Write a program to movement of an object
+23. Write a program to set color in some text and also set background color.
+
+24. Write a program to implement 2D translation on a rectangle about origin rectangle about origin.
+
+25. Write a program 26. Write a program to implement 2D scaling on rectangle about origin.
+
+26.Write a program 26. Write a program to implement 2D rotation on rectangle about origin.
+
+27. .Write a program to implement 2D share on rectangle
+
+28. Write a program to implement 2D reflection on rectangle
+
+29. Write a program to implement 2D scaling on rectangle about pivot point
+
+30. Write a program to implement 2D rotation on rectangle about pivot point
+
+31. Write a program to implement 2D translation on a triangle about origin
+
+32. Write a program to implement 2D scaling on triangle about origin
+
+33. Write a program to implement 2D rotation on triangle about origin
+
+34. Write a program to implement 2D share on triangle
+
+35. Write a program to implement 2D reflection on triangle
+
+36. Write a program to implement 2D scaling on triangle about pivot point
+
+37. Write a program to implement 2D rotation on triangle about pivot point
+
+38) Write a program to implement the simple line clipping algorithm
+
+39) Write a program to implement imoji image
+
+40) Write a program to draw ARC
+
+41) Write a program to draw a BAR
+
+42) Write a program to draw a 3D BAR.
