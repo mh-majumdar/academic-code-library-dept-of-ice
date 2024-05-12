@@ -22,4 +22,14 @@ We welcome contributions from students, faculty, and anyone interested in suppor
 
 6. **Pull Requests**: When ready to contribute, submit a pull request with a brief description of the changes or additions you've made. We'll review the pull request and merge it into the repository if it meets the contribution guidelines.
 
-Thank you for your interest in contributing to the Academic Code Library for the ICE Department. Your contributions help enrich the learning experience for students and contribute to the academic community's growth and development. If you have any questions or need assistance, feel free to reach out to the repository maintainers. Happy coding!
+## Contact Information
+
+For inquiries or assistance regarding this repository, please contact:
+
+Mehedi Hasan  
+ICE 8th Batch  
+Session 2019-20  
+Email: mh.majumdar1952@gmail.com
+
+Thank you for your interest in contributing to the Academic Code Library for the ICE Department. Your contributions help enrich the learning experience for students and contribute to the academic community's growth and development. If you have any questions or need assistance, feel free to reach out to the repository maintainers.
+Happy coding!
